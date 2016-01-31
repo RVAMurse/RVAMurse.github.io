@@ -44,7 +44,7 @@ How do I use these products? Ointments are expensive and greasy so I don't use t
 
 Hope this helps. Stay safe and healthy fellow nurses!
 
-1 - http://www.eczema.org
-2 - https://en.m.wikipedia.org/wiki/Topical_medication#Lotion
-3 - https://en.m.wikipedia.org/wiki/Unguent
-4 - https://en.m.wikipedia.org/wiki/Petroleum_jelly
+(1) http://www.eczema.org
+(2) https://en.m.wikipedia.org/wiki/Topical_medication#Lotion
+(3) https://en.m.wikipedia.org/wiki/Unguent
+(4) https://en.m.wikipedia.org/wiki/Petroleum_jelly
